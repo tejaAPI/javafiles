@@ -1,0 +1,4 @@
+package mypack
+{
+class balance
+{
